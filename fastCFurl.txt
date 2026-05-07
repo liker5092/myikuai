@@ -12,3 +12,7 @@ saas.sin.fan:2083
 cf.877771.xyz:8443
 cf.877774.xyz:2053
 cf.zhetengsha.eu.org:2096
+a.bbrut.bbroot.com:2053
+ci.isay.us.ci:2096
+a.alidnscheck.jo3.org:2053
+a.alidnscheck.2bd.net:443
