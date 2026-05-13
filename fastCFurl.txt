@@ -1,4 +1,3 @@
-a.alidnscheck.2bd.net:443
 bestcf.top:443
 mfa.gov.ua:443
 zeas.top:443
@@ -8,11 +7,9 @@ serviceshub.samsclub.com:443
 hongkongairport.com:443
 5.cf.3666888.xyz:2053
 a.alidnscheck.jo3.org:2053
-a.bbrut.bbroot.com:2053
 cf.090227.xyz:2053
 cf.877774.xyz:2053
 www.mc.js.cool:2053
-static.cloudflareinsights.com:2053
 cdnjs.com:2053
 cloudflare-dns.com:2053
 cloudflare-ech.com:2053
@@ -22,11 +19,6 @@ cloudflare.182682.xyz:2083
 freeyx.cloudflare88.eu.org:2083
 saas.sin.fan:2083
 www.wto.org:2083
-virtualcommtraining.verizon.com:2083
-usa.visa.com:2083
-www.visa.com.hk:2083
-icook.hk:2083
-qualitytraining.zeiss.com:2083
 dx.hhhhh.eu.org:2083
 lt.hhhhh.eu.org:2083
 yd.hhhhh.eu.org:2083
@@ -38,7 +30,6 @@ yyurl.cc:2087
 www.jimdo.com:2093
 cf.godns.cc:2096
 cf.zhetengsha.eu.org:2096
-ci.isay.us.ci:2096
 sub.danfeng.eu.org:2096
 cf.tencentapp.cn:2096
 skk.moe:2096
@@ -48,16 +39,9 @@ csgo.com:2096
 cdn.jsdelivr.net:2096
 r2.dev:2096
 www.researchgate.net:2096
-ln.edu.hk:2096
-www.ntu.edu.sg:2096
-www.ox.ac.uk:2096
-biomaterials.ust.hk:2096
-digitalocean.com:2096
-glassdoor.com:2096
 bestcf.030101.xyz:8443
 cf.877771.xyz:8443
 hk.cf.3666888.xyz:8443
-ttwi0.uuytt.xyz:8443
 email.lg.com:8443
 livescore.co.kr:8443
 markmonitor.com:8443
