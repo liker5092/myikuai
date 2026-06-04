@@ -1,7 +1,7 @@
-https.nogo.asia:2053#nydia01
-https.nogo.asia:2083#nydia02
-https.nogo.asia:2087#nydia03
-https.nogo.asia:2096#nydia04
+https.nogo.asia:2052#nydia01
+https.nogo.asia:2082#nydia02
+https.nogo.asia:2086#nydia03
+https.nogo.asia:2095#nydia04
 https.nogo.asia:8443#nydia05
 saas.sin.fan:2053#nydia06
 store.ubi.com:8443#nydia07
